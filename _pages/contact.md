@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Email: erik.katovich@uconn.edu
+Email: sulin.chowdhury@uconn.edu
 <br/>
 Department of Agricultural and Resource Economics<br/>
 University of Connecticut<br/>
