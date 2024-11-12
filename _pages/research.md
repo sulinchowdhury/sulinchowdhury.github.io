@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Research/
+permalink: /research/
 author_profile: false
 ---
 # **This is a Draft of my Research Page Wallahi will be Updated Inshallah**<br/> 
